@@ -3,3 +3,4 @@ public class HalloWelt {
         System.out.println("Hallo GitHub!");
     }
 }
+// Diese Zeile habe ich auf GitHub bearbeitet
