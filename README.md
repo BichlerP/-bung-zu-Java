@@ -1,2 +1,2 @@
-# -bung-zu-Java
-Übungen zu Java
+# ubung-zu-Java
+ubungen zu Java
