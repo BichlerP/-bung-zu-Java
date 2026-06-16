@@ -1,8 +1,9 @@
+import java.time.LocalDate;
+
 public class HalloWelt {
     public static void main(String[] args) {
-        System.out.println("Hallo GitHub!");
-        System.out.println("Name: GitHub Copilot");
-        System.out.println("Datum: 2026-06-16");
+        System.out.println("Name: Philipp");
+        System.out.println("Datum: " + LocalDate.now());
     }
 }
 // Diese Zeile habe ich auf GitHub bearbeitet
